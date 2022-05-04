@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: seashell;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+header h1{
+    font-size: 50px;
+}
+header h4 a{
+  color: aquamarine;
+  font-size: 16px;
+}
+.expl h1{
+    font-weight: 300px;
+    font-size: 42px;
+}
+.expl p{
+    font-size: 21px;
+    color: gray;
+}
